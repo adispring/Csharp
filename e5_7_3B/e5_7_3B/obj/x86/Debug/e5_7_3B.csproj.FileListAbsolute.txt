@@ -1,0 +1,7 @@
+E:\GitHub\Csharp\e5_7_3B\e5_7_3B\bin\Debug\e5_7_3B.exe
+E:\GitHub\Csharp\e5_7_3B\e5_7_3B\bin\Debug\e5_7_3B.pdb
+E:\GitHub\Csharp\e5_7_3B\e5_7_3B\obj\x86\Debug\e5_7_3B.Form1.resources
+E:\GitHub\Csharp\e5_7_3B\e5_7_3B\obj\x86\Debug\e5_7_3B.Properties.Resources.resources
+E:\GitHub\Csharp\e5_7_3B\e5_7_3B\obj\x86\Debug\e5_7_3B.csproj.GenerateResource.Cache
+E:\GitHub\Csharp\e5_7_3B\e5_7_3B\obj\x86\Debug\e5_7_3B.exe
+E:\GitHub\Csharp\e5_7_3B\e5_7_3B\obj\x86\Debug\e5_7_3B.pdb
