@@ -1,0 +1,4 @@
+E:\GitHub\Csharp\BasicBuilder\BasicBuilder\bin\Debug\BasicBuilder.exe
+E:\GitHub\Csharp\BasicBuilder\BasicBuilder\bin\Debug\BasicBuilder.pdb
+E:\GitHub\Csharp\BasicBuilder\BasicBuilder\obj\x86\Debug\BasicBuilder.exe
+E:\GitHub\Csharp\BasicBuilder\BasicBuilder\obj\x86\Debug\BasicBuilder.pdb
