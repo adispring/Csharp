@@ -1,0 +1,4 @@
+E:\GitHub\Csharp\Memento\Memento\bin\Debug\Memento.exe
+E:\GitHub\Csharp\Memento\Memento\bin\Debug\Memento.pdb
+E:\GitHub\Csharp\Memento\Memento\obj\x86\Debug\Memento.exe
+E:\GitHub\Csharp\Memento\Memento\obj\x86\Debug\Memento.pdb
