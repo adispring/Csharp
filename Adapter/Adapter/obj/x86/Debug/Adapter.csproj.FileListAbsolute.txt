@@ -1,0 +1,4 @@
+E:\GitHub\Csharp\Adapter\Adapter\bin\Debug\Adapter.exe
+E:\GitHub\Csharp\Adapter\Adapter\bin\Debug\Adapter.pdb
+E:\GitHub\Csharp\Adapter\Adapter\obj\x86\Debug\Adapter.exe
+E:\GitHub\Csharp\Adapter\Adapter\obj\x86\Debug\Adapter.pdb
